@@ -1,0 +1,3 @@
+I, [2019-12-08T10:50:11.522956 #4596]  INFO -- apachewithphp-ubuntu-1804: -----> Destroying <apachewithphp-ubuntu-1804>...
+I, [2019-12-08T10:50:12.879033 #4596]  INFO -- apachewithphp-ubuntu-1804: EC2 instance <i-03f0312b08f534df1> destroyed.
+I, [2019-12-08T10:50:12.884033 #4596]  INFO -- apachewithphp-ubuntu-1804: Finished destroying <apachewithphp-ubuntu-1804> (0m1.35s).
