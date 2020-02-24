@@ -1,0 +1,3 @@
+I, [2019-12-08T10:50:12.891034 #4596]  INFO -- apachewithphp-centos: -----> Destroying <apachewithphp-centos>...
+I, [2019-12-08T10:50:13.267055 #4596]  INFO -- apachewithphp-centos: EC2 instance <i-0585cadbb8da6edef> destroyed.
+I, [2019-12-08T10:50:13.271056 #4596]  INFO -- apachewithphp-centos: Finished destroying <apachewithphp-centos> (0m0.37s).

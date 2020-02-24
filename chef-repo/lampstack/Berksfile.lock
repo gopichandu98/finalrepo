@@ -1,0 +1,7 @@
+DEPENDENCIES
+  lampstack
+    path: .
+    metadata: true
+
+GRAPH
+  lampstack (0.1.0)
